@@ -231,7 +231,17 @@ Lei Geral de Proteção de Dados, responsável por regulamentar o tratamento de 
 > Gere perguntas de entrevista para nível júnior relacionadas ao assunto estudado.
 
 ---
+## 📷 Evidências de Utilização do NotebookLM
 
+Durante o desenvolvimento deste projeto foram explorados recursos do NotebookLM como:
+
+- Geração automática de resumos
+- Organização de múltiplas fontes
+- Criação de materiais de revisão
+- Conversas contextualizadas com base nas fontes
+- Produção de guias de estudo assistidos por IA
+
+As capturas de tela e demais evidências encontram-se na pasta `imagens`.
 ## 🎓 Conclusão
 
 O NotebookLM demonstrou ser uma ferramenta poderosa para aprendizagem ativa, permitindo centralizar diferentes fontes de conhecimento, gerar resumos, criar materiais de revisão e apoiar a construção de um processo de estudo mais organizado.
