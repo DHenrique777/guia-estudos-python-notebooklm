@@ -1,6 +1,14 @@
 # guia-estudos-python-notebooklm
 Projeto desenvolvido na DIO utilizando NotebookLM como ferramenta de aprendizagem ativa para estudos de Python para Análise de Dados.
 
+## 🔗 NotebookLM Utilizado
+
+O caderno temático desenvolvido durante este projeto pode ser acessado através do link abaixo:
+
+[NotebookLM - Python para Análise de Dados](https://notebooklm.google.com/notebook/36b1590d-1e11-4ace-bbf4-25926fb4f88a?authuser=1)
+
+> Observação: o acesso depende das permissões de compartilhamento configuradas no Google NotebookLM.
+
 # Python para Análise de Dados: Guia de Estudos Assistido por IA com NotebookLM
 
 ## 📖 Sobre o Projeto
